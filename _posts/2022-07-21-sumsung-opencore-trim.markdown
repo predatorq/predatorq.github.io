@@ -18,8 +18,8 @@ categories: opencore trim ssd
 
 ## 修复步骤
 - 更新Opencore至0.8.0以上, 似乎0.7.9和0.8.0有一定修复, (可以使用OCAT进行更新), 参考内容:
-- [reddit](https://www.reddit.com/r/hackintosh/comments/t8zi4s/how_to_opencore_078_079_differences/)
-- [insanelymac](https://www.insanelymac.com/forum/topic/351477-how-to-opencore-079-080-differences/)
+  - [reddit](https://www.reddit.com/r/hackintosh/comments/t8zi4s/how_to_opencore_078_079_differences/)
+  - [insanelymac](https://www.insanelymac.com/forum/topic/351477-how-to-opencore-079-080-differences/)
 - Bigsur及以下的修复方式:
   - SetApfsTrimTimeout设置为 0 (彻底关闭) 或 4294967295 (最长boot时间).
 - Monterey系统限制设置时间无法生效只能使用0(彻底关闭).
