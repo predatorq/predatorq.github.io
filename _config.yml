@@ -34,12 +34,14 @@ plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
 texture:
-  style: blue
+  style: black
   title: Predatorq's Blog
   tagline: A blog that shares everything.
   date_format: "%b %-d, %Y"
   showNav: true
+  showPicker: false
   show_excerpts: true
+  # disqus_shortname: predatorblog
   navigation:
     - title: Index
       url: "/index"
