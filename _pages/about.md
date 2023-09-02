@@ -1,26 +1,52 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: Currently pursuing a Master's degree at Carnegie Mellon University in the School of Computer Science.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: photo.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # address: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently pursuing a Master of Science Degree in Intelligent Information Systems at the Language Technology Institute in the School of Computer Science at Carnegie Mellon University. Before embarking on this journey, I received a Bachelor Degree in Computer Science from the School of Computer Science and Engineering at Sun Yat-sen University.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am actively seeking an internship opportunity for the summer of 2024 for Machine Learning Engineering (MLE) or Software Development Engineering (SDE). Currently, I am engaged in research centered around large language models. During my undergraduate program, my focus was related to Constituency Parsing and Text-to-SQL.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+# Education
+**Carnegie Mellon University - School of Computer Science**   Pittsburgh, PA
+
+Master of Science in Intelligent Information Systems    May 2025
+
+**Sun Yat-sen University - School of Computer Science and Engineering**   Guangzhou, China
+
+Bachelor of Engineering in Computer Science   June 2023
+
+# Research Experience
+**Carnegie Mellon University - Language Technologies Institute**    Pittsburgh, PA
+
+Graduate Research Assistant   Aug 2023 – Present 
+
+**Sun Yat-sen University - Institute of Advanced Networking and Computing Systems**   Guangzhou, China
+
+Undergraduate Research Assistant    Sept 2020 - June 2023
+
+# Publications
+Wang, Zhicheng et al. “Order-sensitive Neural Constituency Parsing” 
+IEEE 34th International Conference on Tools with Artificial Intelligence (ICTAI) (2022): 282-287. 
+
+Wang, Zhicheng et al. “Joint Chinese Word Segmentation and Span-based Constituency Parsing
+arXiv preprint. arXiv:2211.01638 (2022). 
+
+Shi, Tianyu et al. “Fast Rule-Based Decoding: Revisiting Syntactic Rules in Neural Constituency Parsing.”
+arXiv preprint. arXiv:2212.08458 (2022). [Co-Author]
